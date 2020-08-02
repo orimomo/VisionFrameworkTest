@@ -9,3 +9,7 @@
 * macOS: Catalina 10.15.2
 * Xcode version: 11.6
 * Swift Language version: 5.0
+
+## 注意
+カメラ機能を使うため、シュミレータでは使えません。
+iOS13以上の実機でビルドしてください。
